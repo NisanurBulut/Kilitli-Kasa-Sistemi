@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Banka>
+  <MüşteriMail id="1">
+    <sifre>111111</sifre>
+    <eposta>qwerty@gmail.com</eposta>
+  </MüşteriMail>
+</Banka>
